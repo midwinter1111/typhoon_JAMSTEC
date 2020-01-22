@@ -1,0 +1,5 @@
+# テストデータzipファイルの展開
+!date -R
+!unzip -qq drive/My\ Drive/test.zip
+!date -R
+!ls
